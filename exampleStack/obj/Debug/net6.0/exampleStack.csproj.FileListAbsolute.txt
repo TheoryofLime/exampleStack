@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleStack\exampleStack\bin\Debug\net6.0\exampleStack.exe
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleStack\exampleStack\bin\Debug\net6.0\exampleStack.deps.json
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleStack\exampleStack\bin\Debug\net6.0\exampleStack.runtimeconfig.json
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleStack\exampleStack\bin\Debug\net6.0\exampleStack.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleStack\exampleStack\bin\Debug\net6.0\exampleStack.pdb
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleStack\exampleStack\obj\Debug\net6.0\exampleStack.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleStack\exampleStack\obj\Debug\net6.0\exampleStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleStack\exampleStack\obj\Debug\net6.0\exampleStack.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleStack\exampleStack\obj\Debug\net6.0\exampleStack.AssemblyInfo.cs
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleStack\exampleStack\obj\Debug\net6.0\exampleStack.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleStack\exampleStack\obj\Debug\net6.0\exampleStack.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleStack\exampleStack\obj\Debug\net6.0\refint\exampleStack.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleStack\exampleStack\obj\Debug\net6.0\exampleStack.pdb
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleStack\exampleStack\obj\Debug\net6.0\exampleStack.genruntimeconfig.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleStack\exampleStack\obj\Debug\net6.0\ref\exampleStack.dll
